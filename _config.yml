@@ -2,4 +2,4 @@ remote_theme: pages-themes/tactile@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Qurapp Project
-description: Quranic Apps to motivate people to learn Quran and Arabic language 
+description: towards learning Quran and Arabic language
